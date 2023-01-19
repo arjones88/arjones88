@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/amundjones"><img src="https://github.com/arjones88/arjones88/blob/main/devcard.svg" width="400" alt="Amund Jones's Dev Card"/></a>
+
 - 👋 Hi, I’m Amund Jones
 - 👀 I’m interested in automation, AI/ML, cybersecurity, Linux, open source software, and Raspberry Pis
 - 🌱 I’m currently learning Node.js and Python
